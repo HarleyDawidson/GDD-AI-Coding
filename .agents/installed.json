@@ -1,0 +1,310 @@
+{
+  "plugins": [
+    {
+      "name": "product-sdd-pocock-light",
+      "version": "0.1.0",
+      "source": "./plugins/product-sdd-pocock-light",
+      "scope": "local",
+      "targets": [
+        "codex"
+      ],
+      "installed_at": "2026-10-23T08:45:35Z",
+      "components": {
+        "skills": [
+          {
+            "name": "code-review",
+            "source": "plugins/product-sdd-pocock-light/skills/code-review",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/code-review"
+            ]
+          },
+          {
+            "name": "codebase-design",
+            "source": "plugins/product-sdd-pocock-light/skills/codebase-design",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/codebase-design"
+            ]
+          },
+          {
+            "name": "domain-modeling",
+            "source": "plugins/product-sdd-pocock-light/skills/domain-modeling",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/domain-modeling"
+            ]
+          },
+          {
+            "name": "grilling",
+            "source": "plugins/product-sdd-pocock-light/skills/grilling",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/grilling"
+            ]
+          },
+          {
+            "name": "handoff",
+            "source": "plugins/product-sdd-pocock-light/skills/handoff",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/handoff"
+            ]
+          },
+          {
+            "name": "humanizer",
+            "source": "plugins/product-sdd-pocock-light/skills/humanizer",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/humanizer"
+            ]
+          },
+          {
+            "name": "ponytail",
+            "source": "plugins/product-sdd-pocock-light/skills/ponytail",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/ponytail"
+            ]
+          },
+          {
+            "name": "prototype",
+            "source": "plugins/product-sdd-pocock-light/skills/prototype",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/prototype"
+            ]
+          },
+          {
+            "name": "research",
+            "source": "plugins/product-sdd-pocock-light/skills/research",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/research"
+            ]
+          },
+          {
+            "name": "setup-gdd",
+            "source": "plugins/product-sdd-pocock-light/skills/setup-gdd",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/setup-gdd"
+            ]
+          },
+          {
+            "name": "tdd",
+            "source": "plugins/product-sdd-pocock-light/skills/tdd",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/tdd"
+            ]
+          },
+          {
+            "name": "to-questionnaire",
+            "source": "plugins/product-sdd-pocock-light/skills/to-questionnaire",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/to-questionnaire"
+            ]
+          },
+          {
+            "name": "to-spec",
+            "source": "plugins/product-sdd-pocock-light/skills/to-spec",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/to-spec"
+            ]
+          },
+          {
+            "name": "to-tickets",
+            "source": "plugins/product-sdd-pocock-light/skills/to-tickets",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/to-tickets"
+            ]
+          },
+          {
+            "name": "wayfinder",
+            "source": "plugins/product-sdd-pocock-light/skills/wayfinder",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/wayfinder"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "opbox",
+      "version": "1.0.0",
+      "source": "./plugins/opbox",
+      "scope": "local",
+      "targets": [
+        "codex"
+      ],
+      "installed_at": "2026-10-23T08:51:03Z",
+      "components": {
+        "skills": [
+          {
+            "name": "find-edge-endpoint",
+            "source": "plugins/opbox/skills/find-edge-endpoint",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/find-edge-endpoint"
+            ]
+          },
+          {
+            "name": "find-metrum-icon",
+            "source": "plugins/opbox/skills/find-metrum-icon",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/find-metrum-icon"
+            ]
+          },
+          {
+            "name": "opbox",
+            "source": "plugins/opbox/skills/opbox",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/opbox"
+            ]
+          },
+          {
+            "name": "publish-opbox-component-for-experiment",
+            "source": "plugins/opbox/skills/publish-opbox-component-for-experiment",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/publish-opbox-component-for-experiment"
+            ]
+          },
+          {
+            "name": "publish-opbox-component-for-testing",
+            "source": "plugins/opbox/skills/publish-opbox-component-for-testing",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/publish-opbox-component-for-testing"
+            ]
+          },
+          {
+            "name": "use-dune",
+            "source": "plugins/opbox/skills/use-dune",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/use-dune"
+            ]
+          },
+          {
+            "name": "use-metrum-css",
+            "source": "plugins/opbox/skills/use-metrum-css",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/use-metrum-css"
+            ]
+          },
+          {
+            "name": "use-metrum",
+            "source": "plugins/opbox/skills/use-metrum",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.agents/skills/use-metrum"
+            ]
+          }
+        ],
+        "agents": [
+          {
+            "name": "dune-migrator",
+            "source": "plugins/opbox/agents/dune-migrator.agent.md",
+            "targets": [
+              "codex"
+            ],
+            "destinations": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.codex/agents/dune-migrator.toml"
+            ],
+            "adapter_versions": {
+              "codex": "1"
+            },
+            "generated_by": "adp-cat"
+          }
+        ],
+        "mcp_servers": [
+          {
+            "name": "devhub-mcp",
+            "source": "plugins/opbox/.mcp.json",
+            "targets": [
+              "codex"
+            ],
+            "config_files": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.codex/config.toml"
+            ]
+          },
+          {
+            "name": "opbox",
+            "source": "plugins/opbox/.mcp.json",
+            "targets": [
+              "codex"
+            ],
+            "config_files": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.codex/config.toml"
+            ]
+          },
+          {
+            "name": "tech-docs",
+            "source": "plugins/opbox/.mcp.json",
+            "targets": [
+              "codex"
+            ],
+            "config_files": [
+              "/Users/dawid.wnek/Documents/ChatGPT/GDD AI Coding/.codex/config.toml"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

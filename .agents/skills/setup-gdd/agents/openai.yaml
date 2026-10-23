@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup GDD"
+  short_description: "Set up GitHub or local files for GDD"
+policy:
+  allow_implicit_invocation: false

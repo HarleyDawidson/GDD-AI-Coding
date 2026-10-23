@@ -1,0 +1,18 @@
+
+# BEGIN adp-cat managed mcp server devhub-mcp
+[mcp_servers."devhub-mcp"]
+type = "http"
+url = "https://devhub-mcp.allegrogroup.com/mcp"
+# END adp-cat managed mcp server devhub-mcp
+
+# BEGIN adp-cat managed mcp server opbox
+[mcp_servers."opbox"]
+type = "http"
+url = "https://opbox-mcp.allegrogroup.com/mcp"
+# END adp-cat managed mcp server opbox
+
+# BEGIN adp-cat managed mcp server tech-docs
+[mcp_servers."tech-docs"]
+type = "http"
+url = "https://technical-documentation-brain.dh-prod.allegrogroup.com/mcp"
+# END adp-cat managed mcp server tech-docs
